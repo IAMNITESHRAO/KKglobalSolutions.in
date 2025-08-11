@@ -37,7 +37,7 @@ const ContactMain = () => {
       <Toaster position="top-center" reverseOrder={false} />
       <>
         {/* contact area start */}
-        <div className="contact-area pd-top-60 pd-bottom-60">
+        <div className="contact-area pd-top-30 pd-bottom-30">
           <div className="container">
             <div className="contact-page-inner bg-gray">
               <div className="section-title mb-4 pb-2">

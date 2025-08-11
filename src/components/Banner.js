@@ -109,7 +109,7 @@ const Banner = ({ data }) => {
   return (
     <div
       className='banner-area bg-relative banner-area-1 pd-bottom-60 bg-cover'
-      style={{ backgroundImage: `url(${data.bgImage})` }}
+      style={{ backgroundImage: `url(${data.bgImage})`  }}
     >
       {data.decoration1 && (
         <img className='animate-img-1 top_image_bounce' src={data.decoration1} alt='decoration' />

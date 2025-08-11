@@ -17,6 +17,7 @@ const AboutArea = () => {
                 <img
                   className="animate-img-1 top_image_bounce"
                   src="assets/img/about/2.png"
+                  loading="lazy"
                   alt="img"
                   style={{ left: "1px" }}
                 />

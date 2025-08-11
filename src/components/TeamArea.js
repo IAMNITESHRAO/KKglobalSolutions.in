@@ -155,7 +155,7 @@ const TeamArea = () => {
               <div className="single-team-inner text-center">
                 <div className="thumb">
                   <img
-                    src="assets/img/team/Shashank.png"
+                    src="/assets/img/team/shashank.png"
                     alt="img"
                     style={{
                       width: "100%", // You can adjust this like '200px' or '80%'
